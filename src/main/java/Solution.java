@@ -98,5 +98,4 @@ public class Solution {
         }
         return melhorQuarto;
     }
-    private void removeNotEnoughtRooms(){}
 }
